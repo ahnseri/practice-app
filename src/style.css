@@ -1,0 +1,16 @@
+.container {
+  padding-top: 40px;
+}
+.card {
+  max-width: 700px;
+  margin: 0 auto;
+  background: #d49a89;
+  border-color: rgb(71, 70, 70);
+  border-radius: 1px;
+}
+
+.card-header {
+  background: #557571;
+  border-bottom-color: rgb(71, 70, 70);
+  border-radius: 1px;
+}
